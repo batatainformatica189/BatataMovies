@@ -10,3 +10,15 @@ header {
      font-size: 30px;
      color: rgb(218, 165, 32);
 }
+
+section{
+     background: rgb(96, 16, 25);
+     padding-bottom: 40px;
+     padding-top: 40px;
+     display: flex;
+     justify-content: center 
+}
+
+div{
+     margin-right: 20px;
+}
